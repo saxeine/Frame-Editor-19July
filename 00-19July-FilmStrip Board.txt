@@ -19,9 +19,7 @@ This file structure preserves:
 - Express.js backend server (server.ts) proxying Google Gemini API calls
 - Firebase Integration (Firestore and Auth)
 - Storyboard export, grid carving, screenplay synchronization, and text bubble rendering engines.
--After creation add the following update:-
-a new speech editor studio button icon, accessible on grid storyboard frame.This wil add speech balloon layers for speech,thought and narration.
-Remove the 'vector layer edit' button from grid storyboard frame .
+
 ================================================================================
 
 === START FILE: package.json ===
